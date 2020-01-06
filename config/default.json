@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://suraj:suraj@cluster0-ezfas.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"sl_myJwtSecret"
+}
